@@ -255,7 +255,7 @@
     if-eqz v1, :cond_4
 
     .line 89
-    const-string v4, "navigation_bar_height"
+    const-string v4, "status_bar_height"
 
     const-string v5, "dimen"
 
@@ -308,7 +308,7 @@
 
     .line 91
     :cond_4
-    const-string v4, "navigation_bar_height_landscape"
+    const-string v4, "status_bar_height"
 
     const-string v5, "dimen"
 
