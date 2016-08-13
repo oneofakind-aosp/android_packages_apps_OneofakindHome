@@ -203,7 +203,7 @@
     <string name="home_search_personal_data_dialog_title">Персональные данные</string>
     <string name="home_search_personal_data_dialog_usage_info">Информация об использовании (приложения, игры и т. п.)</string>
     <string name="home_search_promoted_app">Реклама</string>
-    <string name="home_search_suggested_apps_header">Рекомендуемые</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Приложения включены в список рекомендуемых на основании ваших данных об использовании.</string>
     <string name="home_search_welcome_screen_i_agree">Принимаю</string>
     <string name="home_search_welcome_screen_legal_info">Если вы принимаете положения, Sony Mobile будет собирать ваши <a href="home://personaldata">персональные данные</a> для улучш. рекомендаций. Sony Mobile будет обрабатывать данные в соотв. с <a href="http://sonymobile.com/privacy">Политикой конфиденциальности</a>.</string>

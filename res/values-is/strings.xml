@@ -153,7 +153,7 @@ Ath.: Það verður áfram geymt á SD kortinu."</string>
     <string name="home_search_personal_data_dialog_title">Persónuleg gögn</string>
     <string name="home_search_personal_data_dialog_usage_info">Notkunarupplýsingar (notuð forrit, spilaðir leikir o.s.frv.)</string>
     <string name="home_search_promoted_app">Kynning</string>
-    <string name="home_search_suggested_apps_header">Tillögur</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Stungið er upp á þessum forritum út frá notkunarsögu þinni.</string>
     <string name="home_search_welcome_screen_i_agree">Ég samþykki</string>
     <string name="home_search_welcome_screen_legal_info">Ef þú samþykkir fyrir neðan mun Sony Mobile safna <a href="home://personaldata">persónulegum gögnum</a> þínum til að veita nákvæmari meðmæli með forritum. Sony Mobile mun fara með gögnin þín samræmi við <a href="http://sonymobile.com/privacy">persónuverndarstefnu</a> okkar.</string>

@@ -153,7 +153,7 @@
     <string name="home_search_personal_data_dialog_title">ವೈಯಕ್ತಿಕ ಡೇಟಾ</string>
     <string name="home_search_personal_data_dialog_usage_info">ಬಳಕೆ ಮಾಹಿತಿ (ಬಳಸಿದ ಆಪ್‌ಗಳು, ಆಡಲಾದ ಗೇಮ್‌ಗಳು ಇತ್ಯಾದಿ,)</string>
     <string name="home_search_promoted_app">ಪ್ರಚಾರ ಮಾಡಿರುವುದು</string>
-    <string name="home_search_suggested_apps_header">ಸಲಹೆ ನೀಡಿರುವುದು</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">ಈ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ನಿಮ್ಮ ಬಳಕೆ ಇತಿಹಾಸದ ಆಧಾರದಲ್ಲಿ ಸಲಹೆ ನೀಡಲಾಗಿದೆ.</string>
     <string name="home_search_welcome_screen_i_agree">ನಾನು ಒಪ್ಪುವೆ</string>
     <string name="home_search_welcome_screen_legal_info">ಒಂದು ವೇಳೆ ಈ ಕೆಳಗಿನ ಅಂಶ. ಒಪ್ಪಿದಲ್ಲಿ, ಇನ್ನಷ್ಟು ನಿಖರ ಆಪ್ ಶಿಫಾರಸು. Sony Mobile ನಿಮ್ಮ <a href="home://personaldata">ವೈಯಕ್ತಿಕ ಡೇಟಾ</a> ಸಂಗ್ರಹಿಸುತ್ತದೆ. Sony Mobile ನಿಮ್ಮ ಡೇಟಾ ನಮ್ಮ <a href="http://sonymobile.com/privacy">ಗೌಪ್ಯತಾ ನೀತಿ</a>ಗೆ ಅನುಸಾರವಾಗಿ ನಿಭಾಯಿಸುತ್ತದೆ.</string>

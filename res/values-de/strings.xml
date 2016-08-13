@@ -203,7 +203,7 @@ Hinweis: Die App verbleibt auf der SD-Karte."</string>
     <string name="home_search_personal_data_dialog_title">Persönliche Daten</string>
     <string name="home_search_personal_data_dialog_usage_info">Nutzungsinfos (genutzte Apps, Spiele usw.)</string>
     <string name="home_search_promoted_app">Gesponsert</string>
-    <string name="home_search_suggested_apps_header">Vorschläge</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Diese Apps werden basierend auf Ihrem Nutzungsverlauf vorgeschlagen.</string>
     <string name="home_search_welcome_screen_i_agree">Ich stimme zu</string>
     <string name="home_search_welcome_screen_legal_info">Wenn Sie unten zustimmen, erfasst Sony Mobile Ihre <a href="home://personaldata">persönlichen Daten</a>, um bessere App-Empfehlungen bereitstellen zu können. Sony Mobile behandelt Ihre Daten gemäß seiner <a href="http://sonymobile.com/privacy">Datenschutzrichtlinie</a>.</string>

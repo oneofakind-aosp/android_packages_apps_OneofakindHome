@@ -203,7 +203,7 @@ Lưu ý: ứng dụng sẽ vẫn được lưu trên thẻ SD."</string>
     <string name="home_search_personal_data_dialog_title">Dữ liệu cá nhân</string>
     <string name="home_search_personal_data_dialog_usage_info">Thông tin sử dụng (ứng dụng đã sử dụng, trò chơi đã chơi, v.v.)</string>
     <string name="home_search_promoted_app">Được quảng cáo</string>
-    <string name="home_search_suggested_apps_header">Được gợi ý</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Các ứng dụng này được gợi ý dựa trên lịch sử sử dụng của bạn.</string>
     <string name="home_search_welcome_screen_i_agree">Tôi đồng ý</string>
     <string name="home_search_welcome_screen_legal_info">Nếu bạn đồng ý với các mục bên dưới, Sony Mobile sẽ thu thập <a href="home://personaldata">dữ liệu cá nhân</a> để cung cấp đề xuất ứng dụng chính xác hơn. Sony Mobile sẽ xử lý dữ liệu của bạn theo <a href="http://sonymobile.com/privacy">Chính sách Bảo mật</a> của chúng tôi.</string>

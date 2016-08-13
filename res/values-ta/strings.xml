@@ -153,7 +153,7 @@
     <string name="home_search_personal_data_dialog_title">தனிப்பட்ட தரவு</string>
     <string name="home_search_personal_data_dialog_usage_info">பயன்பாட்டுத் தகவல் (பயன்படுத்திய பயன்பாடுகள், விளையாடிய விளையாட்டுகள் போன்றவை)</string>
     <string name="home_search_promoted_app">விளம்பரப்படுத்தப்படுபவை</string>
-    <string name="home_search_suggested_apps_header">பரிந்துரைக்கப்படுபவை</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">உங்கள் பயன்பாட்டு வரலாற்றின் அடிப்படையில் இந்தப் பயன்பாடுகள் பரிந்துரைக்கப்படுகின்றன</string>
     <string name="home_search_welcome_screen_i_agree">ஏற்கிறேன்</string>
     <string name="home_search_welcome_screen_legal_info">கீழே நீங்கள் ஏற்றுக்கொண்டால், மேலும் துல்லியமா. பயன்பாட்டு. பரிந்துரை. செய்ய உங். <a href="home://personaldata">தனி. தரவை</a> Sony Mobile சேகரிக். உங். தர. எங். <a href="http://sonymobile.com/privacy">தனியுரிமைக் கொள்கை.</a> ஏற்ப Sony Mobile கையாளு.</string>

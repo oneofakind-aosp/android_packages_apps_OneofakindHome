@@ -203,7 +203,7 @@ Nota: encara estarà emmagatzemada a la targeta SD."</string>
     <string name="home_search_personal_data_dialog_title">Dades personals</string>
     <string name="home_search_personal_data_dialog_usage_info">"Informació d'ús (aplicacions utilitzades, jocs utilitzats, etc.)"</string>
     <string name="home_search_promoted_app">Promogut</string>
-    <string name="home_search_suggested_apps_header">Suggerides</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">"Aquestes són les aplicacions suggerides segons el vostre historial d'ús."</string>
     <string name="home_search_welcome_screen_i_agree">"Estic d'acord"</string>
     <string name="home_search_welcome_screen_legal_info">"Si esteu d'acord amb el que s'indica a sota, Sony Mobile recollirà les vostres "<a href="home://personaldata">dades personals</a>" per oferir recom. d'aplicacions més precises. Sony Mobile gestionarà les vostres dades segons la nostra "<a href="http://sonymobile.com/privacy">Política de privacitat</a>.</string>

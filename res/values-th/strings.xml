@@ -205,7 +205,7 @@
     <string name="home_search_personal_data_dialog_title">ข้อมูลส่วนตัว</string>
     <string name="home_search_personal_data_dialog_usage_info">ข้อมูลการใช้งาน (แอปที่ใช้ เกมที่เล่น ฯลฯ)</string>
     <string name="home_search_promoted_app">โปรโมทแล้ว</string>
-    <string name="home_search_suggested_apps_header">แนะนำ</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">เราแนะนำแอปพลิเคชันตามประวัติการใช้งานของคุณ</string>
     <string name="home_search_welcome_screen_i_agree">ฉันยอมรับ</string>
     <string name="home_search_welcome_screen_legal_info">หากคุณยอมรับด้านล่างนี้ Sony Mobile จะรวบรวม<a href="home://personaldata">ข้อมูลส่วนตัว</a>ของคุณเพื่อให้คำแนะนำแอปที่แม่นยำยิ่งขึ้น และจะจัดการข้อมูลของคุณตาม<a href="http://sonymobile.com/privacy">นโยบายความเป็นส่วนตัว</a>ของเรา</string>

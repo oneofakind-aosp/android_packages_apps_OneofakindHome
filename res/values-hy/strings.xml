@@ -153,7 +153,7 @@
     <string name="home_search_personal_data_dialog_title">Անձնական տվյալներ</string>
     <string name="home_search_personal_data_dialog_usage_info">Օգտագործման տվյալներ (օգտագործած աշխատածրագրեր, խաղացած խաղեր և այլն)</string>
     <string name="home_search_promoted_app">Գովազդվող</string>
-    <string name="home_search_suggested_apps_header">Խորհուրդ տրվող</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Այս աշխատածրագրերը խորհուրդ են տրվում ձեր օգտագործման պատմության հիման վրա:</string>
     <string name="home_search_welcome_screen_i_agree">Հմձյն եմ</string>
     <string name="home_search_welcome_screen_legal_info">Եթե ստորև տաք ձեր հմձյնթ, Sony Mobile-ը կհվքի ձեր <a href="home://personaldata">անձնկ տվյլնրը</a>՝ աշխտծրգր վրբրյլ ավլի ճշգրիտ խրհրդնր տրմդրլ նպտկվ: Sony Mobile-ը ձեր տվյլնրը կմշակի մեր <a href="http://sonymobile.com/privacy">Գղտնթ քղքկնթ</a> հմձյն:</string>

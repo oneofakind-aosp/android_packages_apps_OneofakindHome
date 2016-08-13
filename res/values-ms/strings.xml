@@ -153,7 +153,7 @@ Nota: ia masih akan disimpan pada kad SD."</string>
     <string name="home_search_personal_data_dialog_title">Data peribadi</string>
     <string name="home_search_personal_data_dialog_usage_info">Maklumat penggunaan (aplikasi yang digunakan, permainan yang dimainkan dsb.)</string>
     <string name="home_search_promoted_app">Dipromosikan</string>
-    <string name="home_search_suggested_apps_header">Dicadangkan</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Aplikasi-aplikasi ini dicadangkan berdasarkan sejarah penggunaan anda.</string>
     <string name="home_search_welcome_screen_i_agree">Saya setuju</string>
     <string name="home_search_welcome_screen_legal_info">Jika anda bersetuju di bawah, Sony Mobile akan mengumpul <a href="home://personaldata">data peribadi</a> anda untuk menyediakan pengesyoran aplikasi yang lebih tepat. Sony Mobile akan mengendalikan data anda menurut <a href="http://sonymobile.com/privacy">Dasar Privasi</a> kami.</string>

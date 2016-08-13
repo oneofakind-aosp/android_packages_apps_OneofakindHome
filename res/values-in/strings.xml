@@ -203,7 +203,7 @@ Catatan: aplikasi akan tetap disimpan pada kartu SD."</string>
     <string name="home_search_personal_data_dialog_title">Data pribadi</string>
     <string name="home_search_personal_data_dialog_usage_info">Info penggunaan (aplikasi yang digunakan, permainan yang dimainkan, dll.)</string>
     <string name="home_search_promoted_app">Dipromosikan</string>
-    <string name="home_search_suggested_apps_header">Disarankan</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Aplikasi ini disarankan berdasarkan pada riwayat penggunaan Anda.</string>
     <string name="home_search_welcome_screen_i_agree">Saya setuju</string>
     <string name="home_search_welcome_screen_legal_info">Jika Anda setuju, Sony Mobile akan mengumpulkan <a href="home://personaldata">data pribadi</a> untuk menyediakan rekomendasi aplikasi akurat. Sony Mobile akan menangani data Anda berdasarkan <a href="http://sonymobile.com/privacy">Kebijakan Privasi</a> kami.</string>

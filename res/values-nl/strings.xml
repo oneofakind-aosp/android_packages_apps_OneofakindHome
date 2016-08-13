@@ -203,7 +203,7 @@ Opmerking: de app is nog opgeslagen op de SD-kaart."</string>
     <string name="home_search_personal_data_dialog_title">Persoonlijke gegevens</string>
     <string name="home_search_personal_data_dialog_usage_info">Gebruiksinfo (gebruikte apps, gespeelde games, enz.)</string>
     <string name="home_search_promoted_app">Gepromoot</string>
-    <string name="home_search_suggested_apps_header">Voorgesteld</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Deze apps worden voorgesteld op basis van uw gebruiksgeschiedenis.</string>
     <string name="home_search_welcome_screen_i_agree">Akkoord</string>
     <string name="home_search_welcome_screen_legal_info">Als u hieronder akkoord gaat, worden uw <a href="home://personaldata">persoonlijke gegevens</a> door Sony Mobile verzameld om u gerichter aanbevelingen voor apps te kunnen doen. Uw gegevens worden behandeld volgens ons <a href="http://sonymobile.com/privacy">privacybeleid</a>.</string>

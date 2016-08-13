@@ -153,7 +153,7 @@ Cathetan: iki isih kasimpen ing kertu SD."</string>
     <string name="home_search_personal_data_dialog_title">Data pribadhi</string>
     <string name="home_search_personal_data_dialog_usage_info">Katrangan panggunaan (aplikasi lan dulinan sing dianggo, lsp.</string>
     <string name="home_search_promoted_app">Dipromosikake</string>
-    <string name="home_search_suggested_apps_header">Disaranake</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Aplikasi iki disaranake miturut riwayat panggunaan sampeyan.</string>
     <string name="home_search_welcome_screen_i_agree">Setuju</string>
     <string name="home_search_welcome_screen_legal_info">Yen sampeyan sarujuk, Sony Mobile bakal nglumpukake <a href="home://personaldata">data pribadhi</a> kanggo nyedhiyani rekomendasi aplikasi sing luwih akurat. Sony Mobile bakal nangani data sampeyan miturut <a href="http://sonymobile.com/privacy">Kabijakan Privasi</a> kita.</string>

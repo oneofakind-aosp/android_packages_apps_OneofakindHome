@@ -203,7 +203,7 @@
     <string name="home_search_personal_data_dialog_title">البيانات الشخصية</string>
     <string name="home_search_personal_data_dialog_usage_info">معلومات الاستخدام (التطبيقات المستخدمة والألعاب التي يتم تشغيلها وغيرها)</string>
     <string name="home_search_promoted_app">يتم الترويج لها</string>
-    <string name="home_search_suggested_apps_header">مقترحة</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">يتم اقتراح هذه التطبيقات بناءً على سجل استخدامك.</string>
     <string name="home_search_welcome_screen_i_agree">أوافق</string>
     <string name="home_search_welcome_screen_legal_info">إذا وافقت أدناه، ستقوم Sony Mobile بجمع <a href="home://personaldata">بياناتك الشخصية</a> لتقديم توصيات أكثر دقة. ستقوم Sony Mobile بالتعامل مع بياناتك حسب <a href="http://sonymobile.com/privacy">سياسة الخصوصية</a> الخاصة بنا.</string>

@@ -153,7 +153,7 @@
     <string name="home_search_personal_data_dialog_title">Лични податоци</string>
     <string name="home_search_personal_data_dialog_usage_info">Информации за користењето (користени апликации, играни игри итн.)</string>
     <string name="home_search_promoted_app">Промовирано</string>
-    <string name="home_search_suggested_apps_header">Предложени</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Овие апликации се предложени врз основа на историјата на користење.</string>
     <string name="home_search_welcome_screen_i_agree">Прифаќам</string>
     <string name="home_search_welcome_screen_legal_info">Доколку се согласите, Sony Mobile ќе ги собира вашите <a href="home://personaldata">лични податоци</a> за да ви даде поточни препораки за апликации. Sony Mobile ќе постапува со вашите податоци според <a href="http://sonymobile.com/privacy">правилата за приватност</a>.</string>

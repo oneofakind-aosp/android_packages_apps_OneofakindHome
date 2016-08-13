@@ -203,7 +203,7 @@ Megjegyzés: továbbra is megtalálható lesz az SD-kártyán."</string>
     <string name="home_search_personal_data_dialog_title">Személyes adatok</string>
     <string name="home_search_personal_data_dialog_usage_info">Használati adatok (használt alkalmazások, játékok stb.)</string>
     <string name="home_search_promoted_app">Kiemelt</string>
-    <string name="home_search_suggested_apps_header">Javasolt</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Használati előzményei alapján ezeket az alkalmazásokat javasoljuk.</string>
     <string name="home_search_welcome_screen_i_agree">Elfogadom</string>
     <string name="home_search_welcome_screen_legal_info">Ha alább elfogadja, a Sony Mobile összegyűjti a <a href="home://personaldata">személyes adatait</a>, hogy pontosabb alkalmazásajánlatokat adhasson. A Sony Mobile az <a href="http://sonymobile.com/privacy">adatvédelmi szabályzatának</a> megfelelőn kezeli az adatokat.</string>

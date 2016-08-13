@@ -203,7 +203,7 @@ Huomautus: se pysyy yhä tallennettuna SD-kortilla."</string>
     <string name="home_search_personal_data_dialog_title">Henkilökohtaiset tiedot</string>
     <string name="home_search_personal_data_dialog_usage_info">Käyttötiedot (käytetyt sovellukset ja pelit jne.).</string>
     <string name="home_search_promoted_app">Esittelyssä</string>
-    <string name="home_search_suggested_apps_header">Ehdotukset</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Näitä sovelluksia ehdotetaan käyttöhistoriasi perusteella.</string>
     <string name="home_search_welcome_screen_i_agree">Hyväksyn</string>
     <string name="home_search_welcome_screen_legal_info">Jos hyväksyt alla olevat ehdot, Sony Mobile kerää sinulta <a href="home://personaldata">henkilökohtaisia tietoja</a>, jotta se voi tarjota parempia sovellussuosituksia. Sony Mobile käsittelee tietojasi <a href="http://sonymobile.com/privacy">tietosuojakäytännön</a> mukaisesti.</string>

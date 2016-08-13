@@ -203,7 +203,7 @@
     <string name="home_search_personal_data_dialog_title">Προσωπικά δεδομένα</string>
     <string name="home_search_personal_data_dialog_usage_info">Πληροφορίες χρήσης (εφαρμογές που χρησιμοποιούνται, παιχνίδια που παίζετε, κ.λπ.)</string>
     <string name="home_search_promoted_app">Προωθούμενες</string>
-    <string name="home_search_suggested_apps_header">Προτεινόμενες</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Οι εφαρμογές αυτές προτείνονται βάσει του ιστορικού χρήσης σας.</string>
     <string name="home_search_welcome_screen_i_agree">Συμφωνώ</string>
     <string name="home_search_welcome_screen_legal_info">Εάν συμφωνήσετε παρακάτω, η Sony Mobile θα συλλέξει τα <a href="home://personaldata">προσωπικά δεδομένα</a> σας για να παρέχει πιο ακριβείς προτάσεις εφαρμογών. Η Sony Mobile θα χειριστεί τα δεδομένα σας σύμφωνα με την <a href="http://sonymobile.com/privacy">Πολιτική απορρήτου</a>.</string>

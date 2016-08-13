@@ -153,7 +153,7 @@
     <string name="home_search_personal_data_dialog_title">വ്യക്തിഗത വിവരം</string>
     <string name="home_search_personal_data_dialog_usage_info">ഉപയോഗ വിവരം (ഉപയോഗിച്ച ആപ്സ്, പ്ലേ ചെയ്ത ഗെയിമുകൾ തുടങ്ങിയവ)</string>
     <string name="home_search_promoted_app">പ്രമോട്ടുചെയ്തത്</string>
-    <string name="home_search_suggested_apps_header">നിർദ്ദേശിച്ചവ</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">നിങ്ങളുടെ ഉപയോഗ ചരിത്രം അടിസ്ഥാനമാക്കി നിർദ്ദേശിച്ച ആപ്സാണിവ.</string>
     <string name="home_search_welcome_screen_i_agree">ഞാൻ അം.</string>
     <string name="home_search_welcome_screen_legal_info">നിങ്ങൾ ചുവടെ അംഗീകരിക്കുന്നുവെങ്കിൽ, കൂടു. കൃത്യമായ ആപ്പ് ശുപാ. ശേഖരി. Sony Mobile <a href="home://personaldata">വ്യക്തിഗത ഡാറ്റ</a> ശേഖരിക്കും. Sony Mobile നിങ്ങ. ഡാറ്റ ഞങ്ങളുടെ <a href="http://sonymobile.com/privacy">സ്വകാര്യതാ നയം</a> അനു. കൈകാ.</string>

@@ -203,7 +203,7 @@ Poznámka: Naďalej zostane uložená na karte SD."</string>
     <string name="home_search_personal_data_dialog_title">Osobné údaje</string>
     <string name="home_search_personal_data_dialog_usage_info">Informácie o používaní zariadenia (aplikácií, hier a pod.)</string>
     <string name="home_search_promoted_app">Propagované</string>
-    <string name="home_search_suggested_apps_header">Navrhnuté</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Tieto aplikácie boli navrhnuté na základe toho, aké aplikácie ste používali doteraz.</string>
     <string name="home_search_welcome_screen_i_agree">Súhlasím</string>
     <string name="home_search_welcome_screen_legal_info">Ak nižšie vyjadríte svoj súhlas, spoločnosť Sony Mobile bude zhromažďovať vaše <a href="home://personaldata">osobné údaje</a>, aby vám mohla odporúčať ešte vhodnejšie aplikácie. Vaše údaje bude používať v súlade so <a href="http://sonymobile.com/privacy">zásadami ochrany osobných údajov</a>.</string>

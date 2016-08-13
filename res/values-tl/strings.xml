@@ -203,7 +203,7 @@ Tandaan: iiimbak pa rin ito sa SD card."</string>
     <string name="home_search_personal_data_dialog_title">Personal na data</string>
     <string name="home_search_personal_data_dialog_usage_info">Impormasyon ng paggamit (mga app na ginagamit, mga nilaro atbp.)</string>
     <string name="home_search_promoted_app">Pino-promote</string>
-    <string name="home_search_suggested_apps_header">Iminumungkahi</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Iminumungkahi ang mga app na ito batay sa mga dati mong ginamit.</string>
     <string name="home_search_welcome_screen_i_agree">Sang-ayon</string>
     <string name="home_search_welcome_screen_legal_info">Kung sang-ayon ka sa ibaba, kokolektahin ng Sony Mobile ang iyong <a href="home://personaldata">personal na data</a> para magbigay ng mga rekomendasyon ng app. Papangasiwaan ng Sony Mobile ang iyong data ayon sa <a href="http://sonymobile.com/privacy">Patakaran sa Privacy</a>.</string>

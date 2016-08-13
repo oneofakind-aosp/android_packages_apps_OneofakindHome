@@ -203,7 +203,7 @@
     <string name="home_search_personal_data_dialog_title">נתונים אישיים</string>
     <string name="home_search_personal_data_dialog_usage_info">"פרטי שימוש (יישומים בשימוש, משחקים בשימוש וכו')"</string>
     <string name="home_search_promoted_app">יישום מקודם</string>
-    <string name="home_search_suggested_apps_header">הוצע</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">יישומים אלה מוצעים בהתבסס על היסטוריית השימוש שלך.</string>
     <string name="home_search_welcome_screen_i_agree">אני מסכים</string>
     <string name="home_search_welcome_screen_legal_info">אם אתה מסכים לכתוב מטה, Sony Mobile תאסוף את <a href="home://personaldata">הנתונים האישיים</a> שלך כדי להספיק המלצות מדויקות יותר ליישומים. Sony Mobile תטפל בנתונים שלך בהתאם ל<a href="http://sonymobile.com/privacy">מדיניות הפרטיות</a> שלה.</string>

@@ -153,7 +153,7 @@
     <string name="home_search_personal_data_dialog_title">ব্যক্তিগত ডেটা</string>
     <string name="home_search_personal_data_dialog_usage_info">ব্যবহারের তথ্য (ব্যবহৃত অ্যাপ, খেলা গেম ইত্যাদি)</string>
     <string name="home_search_promoted_app">প্রচারিত</string>
-    <string name="home_search_suggested_apps_header">প্রস্তাবিত</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">আপনার ব্যবহারের ইতিহাস অনুসরে এই অ্যাপগুলির প্রস্তাব করা হল।</string>
     <string name="home_search_welcome_screen_i_agree">আমি সম্মত</string>
     <string name="home_search_welcome_screen_legal_info">আপনি নীচে সম্মত হলে, Sony Mobile আরো নির্ভুল অ্যাপের সুপারিশ দিতে আপনার <a href="home://personaldata">ব্যক্তিগত ডেটা</a> সংগ্রহ করবে। Sony Mobile আমাদের <a href="http://sonymobile.com/privacy">গোপনীয়তা নীতি</a> অনুসারে আপনার ডেটা পরিচালনা করবে।</string>

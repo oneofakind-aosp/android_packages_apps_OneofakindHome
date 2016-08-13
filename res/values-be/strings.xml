@@ -153,7 +153,7 @@
     <string name="home_search_personal_data_dialog_title">Асабістыя дадзеныя</string>
     <string name="home_search_personal_data_dialog_usage_info">Інфармацыя аб выкарыстанні (дадаткаў, гульняў і г.д.)</string>
     <string name="home_search_promoted_app">Рэкламаваныя</string>
-    <string name="home_search_suggested_apps_header">Прапанаваныя</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Гэтыя дадаткі прапанаваны на падставе вашай гісторыі выкарыстання.</string>
     <string name="home_search_welcome_screen_i_agree">Я згодны(ая)</string>
     <string name="home_search_welcome_screen_legal_info">Калі вы дасце згоду, Sony Mobile будзе збіраць <a href="home://personaldata">асабістыя дадзеныя</a>, каб даваць дакладныя рэкамендацыі. Sony Mobile выкарыст. асабістыя дадзеныя згодна з <a href="http://sonymobile.com/privacy">Палітыкай канфідэнцыяльнасці</a>.</string>

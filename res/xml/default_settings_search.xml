@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <settings version="1">
     <groups type="search">
-        <group>
-            <groups type="activities">
-                <group>
-                    <setting key="name">.Calculator</setting>
-                    <setting key="package-name">com.android.calculator2</setting>
-                </group>
-                <group>
-                    <setting key="name">.LaunchActivity</setting>
-                    <setting key="package-name">com.android.calendar</setting>
-                </group>
-                <group>
-                    <setting key="name">.Organizer</setting>
-                    <setting key="package-name">com.sonyericsson.organizer</setting>
-                </group>
-                <group>
-                    <setting key="name">.Settings</setting>
-                    <setting key="package-name">com.android.settings</setting>
-                </group>
-                <group>
-                    <setting key="name">.MusicActivity</setting>
-                    <setting key="package-name">com.sonyericsson.music</setting>
-                </group>
-                <group>
-                    <setting key="name">.MainActivity</setting>
-                    <setting key="package-name">com.sonyericsson.album</setting>
-                </group>
-                <group>
-                    <setting key="name">.browser.BrowserActivity</setting>
-                    <setting key="package-name">com.sonyericsson.video</setting>
-                </group>
-                <group>
-                    <setting key="name">.EntranceActivity</setting>
-                    <setting key="package-name">com.sonymobile.entrance</setting>
-                </group>
-            </groups>
-        </group>
     </groups>
 </settings>

@@ -203,7 +203,7 @@ Piezīme. Tā joprojām tiks glabāta SD kartē."</string>
     <string name="home_search_personal_data_dialog_title">Personiskie dati</string>
     <string name="home_search_personal_data_dialog_usage_info">Informācija par lietošanu (izmantotajām lietotnēm, spēlētajām spēlēm utt.)</string>
     <string name="home_search_promoted_app">Reklamēta</string>
-    <string name="home_search_suggested_apps_header">Ieteiktās</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Šīs lietotnes ir ieteiktas, pamatojoties uz jūsu lietojuma vēsturi.</string>
     <string name="home_search_welcome_screen_i_agree">Es piekrītu</string>
     <string name="home_search_welcome_screen_legal_info">Ja tālāk piekritīsiet, uzņēmums Sony Mobile apkopos jūsu <a href="home://personaldata">personiskos datus</a>, lai sniegtu precīzākus lietotņu ieteikumus. Sony Mobile apstrādās jūsu datus saskaņā ar mūsu <a href="http://sonymobile.com/privacy">konfidencialitātes politiku</a>.</string>

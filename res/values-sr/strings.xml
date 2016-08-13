@@ -204,7 +204,7 @@ Napomena: Ona će i dalje biti uskladištena na SD kartici."</string>
     <string name="home_search_personal_data_dialog_title">Lični podaci</string>
     <string name="home_search_personal_data_dialog_usage_info">Informacije o korišćenju (korišćene aplikacije, igrane igre itd.)</string>
     <string name="home_search_promoted_app">Promovisano</string>
-    <string name="home_search_suggested_apps_header">Predloženo</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Ove aplikacije su predložene na osnovu vaše istorije korišćenja.</string>
     <string name="home_search_welcome_screen_i_agree">Slažem se</string>
     <string name="home_search_welcome_screen_legal_info">Ako se slažete sa dolenavedenim, Sony Mobile će prikupiti vaše <a href="home://personaldata">lične podatke</a> radi pružanja preciznijih preporuka aplikacija. Sony Mobile će rukovati vašim podacima u skladu sa našim <a href="http://sonymobile.com/privacy">smernicama privatnosti</a>.</string>

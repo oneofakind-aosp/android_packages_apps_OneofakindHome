@@ -206,7 +206,7 @@
     <string name="home_search_personal_data_dialog_title">Особисті дані</string>
     <string name="home_search_personal_data_dialog_usage_info">Інформація про використання (програм, ігор тощо)</string>
     <string name="home_search_promoted_app">Рекламовані</string>
-    <string name="home_search_suggested_apps_header">Рекомендовано</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Ці програми рекомендовано на основі ваших даних про використання.</string>
     <string name="home_search_welcome_screen_i_agree">Погоджуюсь</string>
     <string name="home_search_welcome_screen_legal_info">Якщо ви надасте згоду, компанія Sony Mobile збиратиме ваші <a href="home://personaldata">персональні дані</a>, щоб пропонувати відповідні програми. Sony Mobile оброблятиме дані відповідно до своєї <a href="http://sonymobile.com/privacy">політики конфіденційності</a>.</string>

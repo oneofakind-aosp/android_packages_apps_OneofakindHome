@@ -203,7 +203,7 @@ Pastaba: ji liks išsaugota SD kortelėje."</string>
     <string name="home_search_personal_data_dialog_title">Asmeniniai duomenys</string>
     <string name="home_search_personal_data_dialog_usage_info">Naudojimo informacija (naudotos programos, žaisti žaidimai ir t. t.)</string>
     <string name="home_search_promoted_app">Reklamuojama</string>
-    <string name="home_search_suggested_apps_header">Siūloma</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Šios programos siūlomos pagal jūsų naudojimo istoriją.</string>
     <string name="home_search_welcome_screen_i_agree">Sutinku</string>
     <string name="home_search_welcome_screen_legal_info">Jei toliau sutiksite, „Sony Mobile“ rinks jūsų <a href="home://personaldata">asmeninius duomenis</a>, kad galėtų teikti tikslesnes su programomis susijusias rekomendacijas. „Sony Mobile“ jūsų duomenis naudos vadovaudamasi <a href="http://sonymobile.com/privacy">privatumo politika</a>.</string>

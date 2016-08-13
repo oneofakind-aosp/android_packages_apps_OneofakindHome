@@ -203,7 +203,7 @@
     <string name="home_search_personal_data_dialog_title">個人データ</string>
     <string name="home_search_personal_data_dialog_usage_info">使用情報(使用しているアプリ、ゲームなど)</string>
     <string name="home_search_promoted_app">プロモーテッド</string>
-    <string name="home_search_suggested_apps_header">候補</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">これらのアプリの候補は使用履歴に基づいて表示しています。</string>
     <string name="home_search_welcome_screen_i_agree">同意する</string>
     <string name="home_search_welcome_screen_legal_info">以下に同意すると、Sony Mobileはより正確なアプリのおすすめ情報を提供するため<a href="home://personaldata">個人データ</a>を収集します。Sony Mobileは<a href="http://sonymobile.com/privacy">プライバシーポリシー</a>に基づいてデータを取り扱います。</string>

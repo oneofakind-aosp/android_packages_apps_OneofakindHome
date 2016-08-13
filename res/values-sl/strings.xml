@@ -203,7 +203,7 @@ Opomba: program bo še vedno shranjen na kartici SD."</string>
     <string name="home_search_personal_data_dialog_title">Osebni podatki</string>
     <string name="home_search_personal_data_dialog_usage_info">Informacije o uporabi (uporabljeni programi, igrane igre itd.)</string>
     <string name="home_search_promoted_app">Oglaševan</string>
-    <string name="home_search_suggested_apps_header">Predlagano</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Te programe smo predlagali na podlagi vaše zgodovine uporabe.</string>
     <string name="home_search_welcome_screen_i_agree">Strinjam se</string>
     <string name="home_search_welcome_screen_legal_info">Če se strinjate s spodnjimi pogoji, bo Sony Mobile zbiral vaše <a href="home://personaldata">osebne podatke</a> za prikaz natančnejših priporočil za programe. Sony Mobile bo vaše podatke obravnaval v skladu s <a href="http://sonymobile.com/privacy">pravilnikom o zasebnosti</a>.</string>

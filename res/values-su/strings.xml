@@ -153,7 +153,7 @@ Catetn: éta bakal disimpen dina kartu SD."</string>
     <string name="home_search_personal_data_dialog_title">Data pribadi</string>
     <string name="home_search_personal_data_dialog_usage_info">Inpo pamakéan (aplikasi anu dipaké, gim anu dipaénkeun jsb.)</string>
     <string name="home_search_promoted_app">Dipromosikeun</string>
-    <string name="home_search_suggested_apps_header">Disarankeun</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Aplikasi ieu disarankeun dumasar kana sajarah pamakéan.</string>
     <string name="home_search_welcome_screen_i_agree">Kuring satuju</string>
     <string name="home_search_welcome_screen_legal_info">Lamun anjeun satuju, Sony Mobile bakal ngumpulkeun <a href="home://personaldata">data pribadi</a> keur nyadiakan rékoméndasi aplikasi anu akurat. Sony Mobile bakal nyekel data anjeun dumasarkeun kana <a href="http://sonymobile.com/privacy">Kawijakan Privasi</a> kami.</string>

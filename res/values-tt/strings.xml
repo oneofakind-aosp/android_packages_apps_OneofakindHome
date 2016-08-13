@@ -153,7 +153,7 @@
     <string name="home_search_personal_data_dialog_title">Шәхси мәгълүмат</string>
     <string name="home_search_personal_data_dialog_usage_info">Куллану мәгълүматы (кулланылган кушымталар, уеннар һ.б.)</string>
     <string name="home_search_promoted_app">Рекламаланган</string>
-    <string name="home_search_suggested_apps_header">Тәкъдим ителгән</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Бу кушымталар куллану тарихыгызга нигезләнеп тәкъдим ителде.</string>
     <string name="home_search_welcome_screen_i_agree">Мин риза</string>
     <string name="home_search_welcome_screen_legal_info">Түбәндәгеләр белән килешсәгез, Sony Mobile сезгә туры килә торган кушымталар киңәш итү өчен сезнең <a href="home://personaldata">шәхси мәгъл-ны</a> җыячак. Sony Mobile сезнең мәгъл-ны безнең <a href="http://sonymobile.com/privacy">Хосусыйлык сәясәте</a> нигезендә эшкәртәчәк.</string>

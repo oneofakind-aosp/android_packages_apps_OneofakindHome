@@ -153,7 +153,7 @@ Qeyd: o, hələ də SD kartda saxlanılacaq."</string>
     <string name="home_search_personal_data_dialog_title">Şəxsi məlumtlr</string>
     <string name="home_search_personal_data_dialog_usage_info">İstifadə məlumatları (istifadə edilən proqramlar, oynanılan oyunlar və s.)</string>
     <string name="home_search_promoted_app">Təşviq edilib</string>
-    <string name="home_search_suggested_apps_header">Təklif edilib</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Bu proqramlar istifadə tarixçənizə əsasən təklif edilir.</string>
     <string name="home_search_welcome_screen_i_agree">Razıyam</string>
     <string name="home_search_welcome_screen_legal_info">Aşağıda razılıq versəniz, Sony Mobile daha dəqiq proqram tövsiyələrini təmin etmək üçün <a href="home://personaldata">şəxsi məlumatlarınızı</a> toplayacaq. Sony Mobile məlumatlarınızı <a href="http://sonymobile.com/privacy">Məxfilik Siyasətimizə</a> əsasən idarə edəcək.</string>

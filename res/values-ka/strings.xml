@@ -153,7 +153,7 @@
     <string name="home_search_personal_data_dialog_title">პერსონ. მონაცემები</string>
     <string name="home_search_personal_data_dialog_usage_info">გამოყენების ინფორმაცია (გამოყენებული პროგრამები, თამაშები და ა.შ.)</string>
     <string name="home_search_promoted_app">რეკლამირებული</string>
-    <string name="home_search_suggested_apps_header">შემოთავაზებული</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">ეს პროგრამები შემოთავაზებულია თქვენი გამოყენების ისტორიის საფუძველზე.</string>
     <string name="home_search_welcome_screen_i_agree">თანხმობა</string>
     <string name="home_search_welcome_screen_legal_info">თუ დაეთანხმებით, Sony Mobile შეაგროვებს თქვენს <a href="home://personaldata">პირად მონაცემებს</a>, რეკომენდაციების დახვეწისთვის. Sony Mobile დაამუშავებს მათ <a href="http://sonymobile.com/privacy">კონფიდენც. პოლიტიკის</a> შესაბამისად.</string>

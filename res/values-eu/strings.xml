@@ -153,7 +153,7 @@ Oharra: SD txartelean gordeko da."</string>
     <string name="home_search_personal_data_dialog_title">Datu pertsonalak</string>
     <string name="home_search_personal_data_dialog_usage_info">Erabilera informazioa (erabilitako aplikazioak, jolastutako jokoak, etab.)</string>
     <string name="home_search_promoted_app">Sustatuta</string>
-    <string name="home_search_suggested_apps_header">Iradokitakoak</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Erabilera historian oinarrituta iradokitu dira aplikazioak.</string>
     <string name="home_search_welcome_screen_i_agree">Ados nago</string>
     <string name="home_search_welcome_screen_legal_info">Ondorengoa onartuz gero, Sony Mobile-k zure <a href="home://personaldata">datu pertsonalak</a> bilduko ditu aplikazioei buruzko gomendio zehatzagoak emateko. Sony Mobile-k datuok bere <a href="http://sonymobile.com/privacy">Pribatutasun politikaren</a> arabera erabiliko ditu.</string>

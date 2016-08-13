@@ -207,7 +207,7 @@ Notă: va fi stocată în continuare pe cartela SD."</string>
     <string name="home_search_personal_data_dialog_title">Date personale</string>
     <string name="home_search_personal_data_dialog_usage_info">Informaţii privind utilizarea (aplicaţii utilizate, jocuri jucate etc.)</string>
     <string name="home_search_promoted_app">Promovată</string>
-    <string name="home_search_suggested_apps_header">Sugerate</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Aceste aplicaţii sunt sugerate pe baza istoricului dvs. al utilizării.</string>
     <string name="home_search_welcome_screen_i_agree">Accept</string>
     <string name="home_search_welcome_screen_legal_info">Dacă sunteţi de acord mai jos, Sony Mobile va aduna <a href="home://personaldata">datele dvs. personale</a> pentru a furniza recomandări mai exacte privind aplicaţiile. Sony Mobile va procesa datele dvs. în conformitate cu <a href="http://sonymobile.com/privacy">politica noastră de confidenţialitate</a>.</string>

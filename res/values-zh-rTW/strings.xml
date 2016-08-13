@@ -203,7 +203,7 @@
     <string name="home_search_personal_data_dialog_title">個人資料</string>
     <string name="home_search_personal_data_dialog_usage_info">使用資訊(使用的應用程式、玩的遊戲等)</string>
     <string name="home_search_promoted_app">推廣</string>
-    <string name="home_search_suggested_apps_header">建議使用</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">根據您的使用紀錄，建議您使用這些應用程式。</string>
     <string name="home_search_welcome_screen_i_agree">我同意</string>
     <string name="home_search_welcome_screen_legal_info">如果您同意下方條款，Sony Mobile將會收集您的<a href="home://personaldata">個人資料</a>以提供更準確的應用程式推薦選項。Sony Mobile將根據我們的<a href="http://sonymobile.com/privacy">隱私權政策</a>處理您的資料。</string>

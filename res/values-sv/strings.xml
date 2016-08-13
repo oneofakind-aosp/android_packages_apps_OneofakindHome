@@ -203,7 +203,7 @@ Obs! Den lagras fortfarande på SD-kortet."</string>
     <string name="home_search_personal_data_dialog_title">Personliga data</string>
     <string name="home_search_personal_data_dialog_usage_info">Användningsinformation (använda appar, spelade spel osv.)</string>
     <string name="home_search_promoted_app">Sponsrad</string>
-    <string name="home_search_suggested_apps_header">Föreslagna</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Föreslagna appar baserat på din användningshistorik.</string>
     <string name="home_search_welcome_screen_i_agree">Jag accept.</string>
     <string name="home_search_welcome_screen_legal_info">Om du samtycker kommer Sony Mobile att samla in <a href="home://personaldata">personliga uppgifter</a> som hjälper oss att ge dig bättre apprekommendationer. Sony Mobile hanterar dina uppgifter i enlighet med vår <a href="http://sonymobile.com/privacy">Sekretesspolicy</a>.</string>

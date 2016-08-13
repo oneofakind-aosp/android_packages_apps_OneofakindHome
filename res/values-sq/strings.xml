@@ -153,7 +153,7 @@ Shënim: Ai do të ruhet përsëri në kartën SD."</string>
     <string name="home_search_personal_data_dialog_title">Të dhënat personale</string>
     <string name="home_search_personal_data_dialog_usage_info">Informacionet për përdorimin (aplikacionet e përdorura, lojërat e luajtura etj.)</string>
     <string name="home_search_promoted_app">I promovuar</string>
-    <string name="home_search_suggested_apps_header">Të sugjeruara</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Këto aplikacione janë sugjeruar bazuar në historinë tuaj të përdorimit.</string>
     <string name="home_search_welcome_screen_i_agree">Unë pranoj</string>
     <string name="home_search_welcome_screen_legal_info">Nëse pranoni sa më poshtë, Sony Mobile do të mbledhë <a href="home://personaldata">të dhënat tuaja personale</a>" për të ofruar rekomandime më të sakta për aplikacionet. Sony Mobile do t'i administrojë të dhënat sipas "<a href="http://sonymobile.com/privacy">Politikës sonë të privatësisë</a>.</string>

@@ -153,7 +153,7 @@
     <string name="home_search_personal_data_dialog_title">वैयक्तिक डेटा</string>
     <string name="home_search_personal_data_dialog_usage_info">वापर माहिती (वापरलेले अनुप्रयोग, खेळलेले गेम्स इत्यादी)</string>
     <string name="home_search_promoted_app">उत्तेजनार्थ</string>
-    <string name="home_search_suggested_apps_header">सुचविलेले</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">आपल्या उपयोग इतिहासाच्या आधारावर हे अनुप्रयोग सुचविण्यात आले आहेत.</string>
     <string name="home_search_welcome_screen_i_agree">मी सहमत आहे</string>
     <string name="home_search_welcome_screen_legal_info">खालील बाबीशी आपण सहमत असल्यास आपल्याला अधिक अचूक शिफारशी प्रदान करण्यासाठी Sony Mobile आपला <a href="home://personaldata">वैयक्तिक डेटा</a> संकलित करेल. आमच्या <a href="http://sonymobile.com/privacy">गोपनीयता धोरण</a> नुसार Sony Mobile आपला डेटा हाताळेल.</string>

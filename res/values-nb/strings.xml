@@ -203,7 +203,7 @@ Merk: den vil fortsatt være lagret på SD-kortet."</string>
     <string name="home_search_personal_data_dialog_title">Personlige data</string>
     <string name="home_search_personal_data_dialog_usage_info">Bruksinformasjon (apper brukt, spill spilt osv.)</string>
     <string name="home_search_promoted_app">Promotert</string>
-    <string name="home_search_suggested_apps_header">Foreslått</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Disse appene er foreslått basert på din brukshistorikk.</string>
     <string name="home_search_welcome_screen_i_agree">Godta</string>
     <string name="home_search_welcome_screen_legal_info">Hvis du godtar nedenfor, vil Sony Mobile samle inn dine <a href="home://personaldata">personlige data</a> for å gi deg mer nøyaktige appanbefalinger. Sony Mobile vil behandle dine data i henhold til vår <a href="http://sonymobile.com/privacy">personvernerklæring</a>.</string>

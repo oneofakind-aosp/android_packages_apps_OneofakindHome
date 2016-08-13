@@ -154,7 +154,7 @@
     <string name="home_search_personal_data_dialog_title">Жеке деректер</string>
     <string name="home_search_personal_data_dialog_usage_info">Пайдалану туралы ақпарат (пайдаланылған қолданбалар, ойналған ойындар, т.б.)</string>
     <string name="home_search_promoted_app">Жарнама</string>
-    <string name="home_search_suggested_apps_header">Ұсынылады</string>
+    <string name="home_search_suggested_apps_header"></string>
     <string name="home_search_suggested_apps_header_hint">Бұл қолданбалар пайдалану тарихыңыздың негізінде ұсынылған.</string>
     <string name="home_search_welcome_screen_i_agree">Мен кел-мін</string>
     <string name="home_search_welcome_screen_legal_info">Төменде келіссеңіз, Sony Mobile дәлірек қолданба ұсыныстарын қамтамасыз ету үшін <a href="home://personaldata">жеке деректеріңізді</a> жинайды. Sony Mobile деректеріңізді <a href="http://sonymobile.com/privacy">Құпиялық саясатына</a> сай өңдейді.</string>
