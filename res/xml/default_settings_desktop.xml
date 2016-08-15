@@ -5,7 +5,7 @@
             <groups type="widgets">
                 <group>
                     <setting key="package-name">com.android.deskclock</setting>
-                    <setting key="name">com.android.alarmclock.CustomAppWidgetProvider</setting>
+                    <setting key="name">com.android.alarmclock.DigitalAppWidgetProvider</setting>
                     <setting key="width">4</setting>
                     <setting key="height">2</setting>
                     <setting key="x">0</setting>
